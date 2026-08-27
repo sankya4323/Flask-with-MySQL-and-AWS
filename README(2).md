@@ -88,13 +88,13 @@ The application provides a student-oriented web platform with:
 
 The deployed application provides a protected dashboard where authenticated users can view their account details and deployment/database status.
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](user-dashboard.png)
 
 ### Administrator Dashboard
 
 The administrator dashboard provides role-protected access to registration metrics and the registered user directory.
 
-![Administrator Dashboard](screenshots/admin-dashboard.png)
+![Administrator Dashboard](admin-dashboard.png)
 
 ## 🗄️ Database
 
